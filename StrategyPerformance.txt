@@ -1,0 +1,8 @@
+With The Simple Moving Average Crossover there is the most potential buying point 
+at the lowest where the Moving Averages crossover each other 
+when bought in the first crossover have to face a price down once , 
+but at the end where short MA overtakes the long MA and finally as we see 
+the downtrend of the short MA after its peak and the crossover after that is the best point to sell and see maximum profits.
+
+Since I am new to Trading I had to go with Simple Moving Average Crossover
+I also am looking into better and easier strategies to implement
